@@ -1,4 +1,6 @@
-# CSGSO_BCBGSO_Fall_2021_Hackathon_stdafx
+# HackerS by stdafx
+
+### Iowa State CSGSO_BCBGSO_Fall_2021_Hackathon_stdafx
 
 ### HackerS
 _**An RPG where you are immersed as a hacker**_
