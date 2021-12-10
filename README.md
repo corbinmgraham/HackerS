@@ -1,4 +1,4 @@
-# HackerS by stdafx
+# HackerS by stdafx Submission Edition
 
 ### Iowa State CSGSO_BCBGSO_Fall_2021_Hackathon_stdafx
 
