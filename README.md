@@ -1,6 +1,7 @@
 # HackerS by stdafx Submission
 
-### Iowa State CSGSO_BCBGSO_Fall_2021_Hackathon_stdafx
+### Iowa State CSGSO_BCBGSO_Fall_2021_Hackathon_stdafx (11/12/2021-11/13/2021)
+Created GitHub account, page, MD, project, and executables in under 24 hours.
 
 ### HackerS
 _**An RPG where you are immersed as a hacker**_
